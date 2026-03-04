@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+- Commit
+
+After all 6 steps your repo root should look like:
+```
+src/
+  App.jsx
+  main.jsx
+  index.css
+index.html
+package.json
+vite.config.js
+vercel.json
+...
